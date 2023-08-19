@@ -11,7 +11,3 @@ Skills: PYTHON
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Alexsandey-Lima&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/Alexsandey-Lima)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/Alexsandey-Lima)  
-
