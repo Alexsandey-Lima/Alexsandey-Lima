@@ -1,6 +1,14 @@
-### Hi there 👋, my name is Alexsandey
+### Hi there 👋, my name is Alexsandey, i am interested in software automation and software development for offices and administrative activities, I have practical experience in accounting.
 
-Skills: PYTHON
+Skills: 
+  Python
+  Software Automation
+  Django
+  PyautoGui
+  Pandas
+  Tkinter
+  Acconting
+
 
 - 🌱 I’m currently learning SQL, JAVASCRIPT, HTML E CSS 
 
